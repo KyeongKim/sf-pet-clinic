@@ -18,7 +18,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>sf-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>sf-pet-clinic</name>
     <description>SF Pet Clinic</description>
 
@@ -79,7 +79,8 @@
     <scm>
         <developerConnection>scm:git:https://github.com/KyeongKim/sf-pet-clinic.git</developerConnection>
 
-    </scm>
+      <tag>sf-pet-clinic-0.0.2</tag>
+  </scm>
 
 
 </project>
